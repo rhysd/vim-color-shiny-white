@@ -5,6 +5,10 @@ This is shiny color scheme for Vim.
 
 ![screen shot](https://raw.githubusercontent.com/rhysd/ss/master/vim-color-shiny-white/screenshot.png)
 
+```vim
+:colorscheme shiny-white
+```
+
 ## License
 
 Copyright (c) 2015 rhysd

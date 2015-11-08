@@ -67,10 +67,10 @@ hi Constant guifg=#ffffff
 hi Define guifg=#ffffff
 hi Delimiter guifg=#ffffff
 " hi Float
-hi Function guifg=#3caf6f
+hi Function guifg=#49ff89
 hi Identifier guifg=#ffffff
 " hi Include
-hi Keyword guifg=#3caf6f
+hi Keyword guifg=#49ff89
 " hi Label
 hi Number guifg=#ff3264
 " hi Operator
@@ -78,14 +78,14 @@ hi PreProc guifg=#ffffff
 " hi Repeat
 hi Special guifg=#ffffff
 " hi SpecialChar
-hi Statement guifg=#3caf6f
+hi Statement guifg=#49ff89
 " hi StorageClass
 " hi String
 " hi Structure
 " hi Tag
 " hi Todo
-hi Type guifg=#3caf6f
-hi Typedef guifg=#3caf6f
+hi Type guifg=#49ff89
+hi Typedef guifg=#49ff89
 " 
 " " Spelling highlighting
 " hi SpellBad
