@@ -39,7 +39,7 @@ hi Bold gui=bold
 " hi WildMenu
 " hi Title
 hi Conceal guifg=#202020
-hi Cursor guifg=#ffffff
+hi Cursor guifg=#ffffff gui=bold
 hi NonText guifg=#666666 guibg=#333333
 hi Normal guifg=#b4b4b4 guibg=#202020
 hi LineNr guifg=#b4b4b4
@@ -63,12 +63,12 @@ hi Boolean guifg=#ff3264
 " hi Character
 hi Comment guifg=#666666
 " hi Conditional
-hi Constant guifg=#ffffff
+hi Constant guifg=#ffffff gui=bold
 hi Define guifg=#ffffff
 hi Delimiter guifg=#ffffff
 " hi Float
 hi Function guifg=#49ff89
-hi Identifier guifg=#ffffff
+hi Identifier guifg=#ffffff gui=bold
 " hi Include
 hi Keyword guifg=#49ff89
 " hi Label
@@ -76,7 +76,7 @@ hi Number guifg=#ff3264
 " hi Operator
 hi PreProc guifg=#ffffff
 " hi Repeat
-hi Special guifg=#ffffff
+hi Special guifg=#ffffff gui=bold
 " hi SpecialChar
 hi Statement guifg=#49ff89
 " hi StorageClass
